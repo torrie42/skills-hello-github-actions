@@ -235,7 +235,7 @@ Your new action will run any time a pull request has been opened.
 
 1. Make a new branch named `test-workflow`.
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
-2. Create the pull request on your branch.
+2. Create the pull request on your branch. OR NOT.
 3. See your action run on your pull request.
 4. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
 
